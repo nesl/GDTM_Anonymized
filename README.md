@@ -362,6 +362,6 @@ rm -r /dev/shm/cache_*
 to clear any pre-loaded data in the memory.
 
 ### See Also
-For further usage such as how to train a multimodal sensor fusion models, we provide examples in https://github.com/nesl/GDTM-Tracking
+For further usage such as how to train a multimodal sensor fusion models, we provide examples in https://anonymous.4open.science/status/GDTM_Tracking_Anonymized-336F
 
 
