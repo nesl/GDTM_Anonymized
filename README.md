@@ -13,7 +13,7 @@ One of the critical sensing tasks in indoor environments is geospatial tracking,
 
 -  **[Data]** We will be hosting the dataset on IEEE Dataport under a CC-BY-4.0 license for public access. The public dataset repository will be ready before cameraready, as it takes a lot of time to upload terabytes of data online. We hereby provide **a Google Drive link to part of the dataset available for the reviewers** before the terabyte full dataset is available online. This dataset includes two scenarios, low-light and good lighting, under single-view and all modality data collection. 
 
-	https://drive.google.com/drive/folders/17RXrXc4Qd0yKhGVMyyZxVxF9NrwolRgn?usp=sharing
+	https://drive.google.com/drive/folders/1ccdCBq1Xh9tW6CHoGbzizIo79T18nMfo?usp=drive_link
 
 
 -  **[PDF]** PDF to the scientific paper on the dataset: (Link to be updated, paper under review).
