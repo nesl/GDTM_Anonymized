@@ -11,9 +11,9 @@ One of the critical sensing tasks in indoor environments is geospatial tracking,
 
 ### External Links 
 
--  **[Data]** We will be hosting the dataset on IEEE Dataport under a CC-BY-4.0 license for public access. The public dataset repository will be ready before cameraready, as it takes a lot of time to upload terabytes of data online. We hereby provide **a Google Drive link to part of the dataset available for the reviewers** before the terabyte full dataset is available online.
+-  **[Data]** We will be hosting the dataset on IEEE Dataport under a CC-BY-4.0 license for public access. The public dataset repository will be ready before cameraready, as it takes a lot of time to upload terabytes of data online. We hereby provide **a Google Drive link to part of the dataset available for the reviewers** before the terabyte full dataset is available online. This dataset includes two scenarios, low-light and good lighting, under single-view and all modality data collection. 
 
-	https://drive.google.com/drive/folders/1N0b8-o9iipR7m3sq7EnTHrk_fRR5eFug?usp=sharing
+	https://drive.google.com/drive/folders/17RXrXc4Qd0yKhGVMyyZxVxF9NrwolRgn?usp=sharing
 
 
 -  **[PDF]** PDF to the scientific paper on the dataset: (Link to be updated, paper under review).
@@ -24,7 +24,7 @@ One of the critical sensing tasks in indoor environments is geospatial tracking,
 
 -  **[Video]** A **demo video** of our baseline results is available at
 
-	https://youtu.be/4EO5Z2IxO0o
+	https://youtu.be/Y-x_eEiFxaA
 
 
 ### Internal Links
@@ -59,7 +59,7 @@ The dataset covers three cases: one car, two cars, and one car in poor illuminat
 
 ### Data Hierachy
 
-The data set is origanized by firstly the experiment settings, then viewpoints. The top hierachies are shown below
+The complete data set will be organized by first the experiment settings, then viewpoints. The top hierachies are shown below
 ```
 ─── GDTM/
     ├── One Car
