@@ -20,7 +20,7 @@ One of the critical sensing tasks in indoor environments is geospatial tracking,
 
 -  To ensure the reproducibility of the results shown in this paper, we summarized the setup instructions, the link to pre-processed sample data, and the **code used to generate our results** in:
 
-	https://github.com/nesl/GDTM-tracking
+	https://anonymous.4open.science/status/GDTM_Tracking_Anonymized-336F
 
 -  **[Video]** A **demo video** of our baseline results is available at
 
